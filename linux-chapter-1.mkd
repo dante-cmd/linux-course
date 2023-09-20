@@ -1,0 +1,10 @@
+# Linux-For-Beginner
+
+
+Is a open source operating system for PC and workstations (is a special computer designed for techinical or scientific )
+
+
+Check the memory usage in Linux
+
+The `$ htop`
+ 
